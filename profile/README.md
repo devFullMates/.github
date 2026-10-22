@@ -28,4 +28,4 @@ a strong online presence.
 
 📧 devMates.adm@gmail.com
 
-🌐 https://our-portfolio-devfullmates.vercel.app/pt
+🌐 https://our-portfolio-devfullmates.vercel.app/
